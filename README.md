@@ -1,5 +1,5 @@
 Title of the project 2: “Diabetes Patients”
-Guide - Click Here
+
  
 About Dataset
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney
